@@ -221,6 +221,10 @@ public class ComplexNbr {
             return ("z=" + this.getReal() + "+i");
         } else return ("z=" + this.getReal() + "+" + this.getImag() + "i");
     }
+
+    public static void (String[] args){
+        System.out.println("1232456");
+    }
 }
 
 
