@@ -221,6 +221,13 @@ public class ComplexNbr {
             return ("z=" + this.getReal() + "+i");
         } else return ("z=" + this.getReal() + "+" + this.getImag() + "i");
     }
+
+
+    vfieruahgvihbwsrd
+    dsvbvoebfovd
+            nvpnepfdbv]
+    fdjn
+    [pfndb]
 }
 
 
